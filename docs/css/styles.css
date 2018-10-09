@@ -26,3 +26,6 @@ h6{
 #header h1{
 color:blue;
 }
+#header li{
+    display: inline;
+}
